@@ -15,4 +15,4 @@ I'm Andre Silveira, a BI/SQL Developer, gratuated in Analysis and Develop System
 ## Take a look in my projects
 ### Database Projects - SQL and TSQL
 * [SQL Server Long Query Alert](https://github.com/SilveiraAndre/sql-long-query-alert). A personal project in TSQL using sp_send_dbmail that send alerts in email of queries that are running for more than 10 minutes.
-* [SQL Server Identify new Customer base](htpps://github.com/SilveiraAndre/identify-new-customer-base.sql). A personal project in TSQL that check if customers base has been updated. 
+* [SQL Server Identify new Customer base](htpps://github.com/SilveiraAndre/identify-new-customer-base). A personal project in TSQL that check if customers base has been updated. 

@@ -5,7 +5,7 @@ I'm Andre Silveira, a BI/SQL Developer, gratuated in Analysis and Develop System
 ## About Me 
 - Location: São Paulo, Brasil
 - BI/SQL Developer at Grupo Verreschi
-- Graduated in Analysis and Develop Systems
+- Graduated in Analysis and Develop Systems at Universidade Anhembi Morumbi
 - Currently studying Python and its libraries with a focus on data analysis and chart development. A lot of interest in financial market, and .NET development
 
 ## Experience 
